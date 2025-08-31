@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NEqFuq8vDDJ8iGtMRvAWod31fRsSLIwEXDjLsGQ88FZBluL3AIjmaA8IDnwsXH+8DUqTwG4SS2KSF8ShTsZXIg==",
+  "dgSpecHash": "CXPQ/nbJVvV2d0sXnzIuf/CCCrGjrrCg2vXm0zzxq674neRHxR7078oUI6LKQ3GzO56QOfDeF6F9Wq+6n8KAuw==",
   "success": true,
-  "projectFilePath": "/home/roberto/Escritorio/HelloApi/HelloApi.csproj",
+  "projectFilePath": "/home/roberto/Escritorio/Lab/Backend/HelloApi/HelloApi.csproj",
   "expectedPackageFiles": [
     "/home/roberto/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/home/roberto/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",

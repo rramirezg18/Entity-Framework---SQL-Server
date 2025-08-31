@@ -5198,11 +5198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/roberto/Escritorio/HelloApi/HelloApi.csproj",
+      "projectUniqueName": "/home/roberto/Escritorio/Lab/Backend/HelloApi/HelloApi.csproj",
       "projectName": "HelloApi",
-      "projectPath": "/home/roberto/Escritorio/HelloApi/HelloApi.csproj",
+      "projectPath": "/home/roberto/Escritorio/Lab/Backend/HelloApi/HelloApi.csproj",
       "packagesPath": "/home/roberto/.nuget/packages/",
-      "outputPath": "/home/roberto/Escritorio/HelloApi/obj/",
+      "outputPath": "/home/roberto/Escritorio/Lab/Backend/HelloApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/roberto/.nuget/NuGet/NuGet.Config"
